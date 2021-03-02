@@ -1,4 +1,6 @@
-### 👋 Hello, I'm DoHyoung Cho, a front-end developer.:bulb: 
+### 👋 Hello, I'm DoHyoung Cho!
+
+### A Front-End Developer.:bulb: 
 
 ### Daily Routine :coffee: :computer: :blue_car:
 
