@@ -1,8 +1,8 @@
 ### 👋 Hello
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoDoHyoung&count_bg=%23E3B519&title_bg=%23555555&icon=macys.svg&icon_color=%23FAFF00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoDoHyoung&count_bg=%23E3B519&title_bg=%23555555&icon=macys.svg&icon_color=%23FAFF00&title=hits&edge_flat=false)]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=great-gatsby&show_icons=true)
+![ChoDoHyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoDoHyoung&theme=great-gatsby&show_icons=true)
 
 <!--
 **ChoDoHyoung/ChoDoHyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
