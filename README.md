@@ -8,6 +8,6 @@
 
 ---
 
-![ChoDoHyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoDoHyoung&theme=great-gatsby&show_icons=true) &#160; &#160; ![ChoDoHyoung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoDoHyoung&theme=great-gatsby&layout=compact)
+![ChoDoHyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoDoHyoung&theme=great-gatsby&show_icons=true) &#160; ![ChoDoHyoung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoDoHyoung&theme=great-gatsby&layout=compact)
 
 ---
